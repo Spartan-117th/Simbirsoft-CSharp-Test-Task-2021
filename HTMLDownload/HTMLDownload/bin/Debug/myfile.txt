@@ -1,0 +1,1383 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie8" lang="ru" prefix="og: http://ogp.me/ns#" itemscope itemtype="http://schema.org/WebPage"><![endif]-->
+<!--[if IE 9 ]><html class="ie9" lang="ru" prefix="og: http://ogp.me/ns#" itemscope itemtype="http://schema.org/WebPage"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="ru" prefix="og: http://ogp.me/ns#" itemscope itemtype="http://schema.org/WebPage"><!--<![endif]-->
+<!--[if !IE]><html class="no-js" lang="ru" itemscope itemtype="http://schema.org/WebPage"><![endif]-->
+<head>
+    <meta name="theme-color" content="#fff"/>
+    <link rel="apple-touch-icon" href="/local/templates/.default/img/logo-192.png">
+    <link rel="manifest" href="/manifest.webmanifest.json">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
+    <title>Разработка программного обеспечения на заказ -  SimbirSoft</title>
+
+        <!-- Google Tag Manager -->
+    <script data-skip-moving="true" async>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W6BSPX');</script>
+    <!-- End Google Tag Manager -->
+                        <meta property="og:type" content="website">
+        <meta property="og:title" content="Разработка программного обеспечения на заказ -  SimbirSoft"/>
+        <meta property="og:url" content="https://www.simbirsoft.com/"/>
+        <meta property="og:image"
+              content="https://www.simbirsoft.com/local/templates/.default/img/og-main-pic.jpg"/>
+        <meta property="og:image:width" content="900"/>
+        <meta property="og:image:height" content="407"/>
+        <meta property="og:description"
+              content="С 2001 года СимбирСофт разрабатывает уникальные программные решения для компаний из России, США и стран Европы."/>
+
+        <meta name="twitter:site" content="@SimbirSoft">
+        <meta name="twitter:creator" content="@SimbirSoft">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Разработка программного обеспечения на заказ -  SimbirSoft">
+        <meta name="twitter:image:src"
+              content="https://www.simbirsoft.com/local/templates/.default/img/og-main-pic.jpg">
+        <meta name="twitter:image:width" content="900">
+        <meta name="twitter:image:height" content="407">
+    
+    <link rel="shortcut icon" type="image/x-icon" href="/local/templates/.default/img/favicon.ico">
+
+    <link rel="alternate" hreflang="x-default" href="https://www.simbirsoft.com/" /><link rel="alternate" hreflang="ru" href="https://www.simbirsoft.com/" /><link rel="alternate" hreflang="en" href="https://www.simbirsoft.com/en/" />    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="Разработка программных IT-продуктов «под ключ» для компаний из России, США и Европы, обеспечение надежной работы IT-систем, услуги IT-аутсорсинга — СимбирСофт" />
+<style>.bx-composite-btn {background: url(/bitrix/images/main/composite/sprite-1x.png) no-repeat right 0 #e94524;border-radius: 15px;color: #fff !important;display: inline-block;line-height: 30px;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size: 12px !important;font-weight: bold !important;height: 31px !important;padding: 0 42px 0 17px !important;vertical-align: middle !important;text-decoration: none !important;}@media screen   and (min-device-width: 1200px)   and (max-device-width: 1600px)   and (-webkit-min-device-pixel-ratio: 2)  and (min-resolution: 192dpi) {.bx-composite-btn {background-image: url(/bitrix/images/main/composite/sprite-2x.png);background-size: 42px 124px;}}.bx-composite-btn-fixed {position: absolute;top: -45px;right: 15px;z-index: 10;}.bx-btn-white {background-position: right 0;color: #fff !important;}.bx-btn-black {background-position: right -31px;color: #000 !important;}.bx-btn-red {background-position: right -62px;color: #555 !important;}.bx-btn-grey {background-position: right -93px;color: #657b89 !important;}.bx-btn-border {border: 1px solid #d4d4d4;height: 29px !important;line-height: 29px !important;}.bx-composite-loading {display: block;width: 40px;height: 40px;background: url(/bitrix/images/main/composite/loading.gif);}</style>
+<script data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {'CACHE_MODE':'HTMLCACHE','banner':{'url':'http://www.1c-bitrix.ru/composite/','text':'Быстро с 1С-Битрикс','bgcolor':'#FF8534','style':'white'},'storageBlocks':[],'dynamicBlocks':{'lang-block':'d41d8cd98f00','FEp1a6':'01482b2b9174','contact_form-block':'d41d8cd98f00'},'AUTO_UPDATE':true,'AUTO_UPDATE_TTL':'120'};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}else{w.frameRequestFail = f;}return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();})(window, document);</script>
+<script data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if ((ieVersion = getIeVersion()) > 0){cl += " bx-ie bx-ie" + ieVersion;if (ieVersion > 7 && ieVersion < 10 && !isDoctype()){cl += " bx-quirks";}}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Gecko/.test(ua)){cl += " bx-firefox";}if (/Macintosh/i.test(ua)){cl += " bx-mac";}ht.className = htc ? htc + " " + cl : cl;function isDoctype(){if (d.compatMode){return d.compatMode == "CSS1Compat";}return d.documentElement && d.documentElement.clientHeight;}function getIeVersion(){if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)){return -1;}var rv = -1;if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)){rv = 11;}else if (!!d.documentMode && d.documentMode >= 10){rv = 10;}else if (!!d.documentMode && d.documentMode >= 9){rv = 9;}else if (d.attachEvent && !/Opera/.test(ua)){rv = 8;}if (rv == -1 || rv == 8){var re;if (n.appName == "Microsoft Internet Explorer"){re = new RegExp("MSIE ([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}else if (n.appName == "Netscape"){rv = 11;re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}}return rv;}})(window, document, navigator);</script>
+
+
+<link href="/bitrix/cache/css/s1/simbirsoft/kernel_main/kernel_main.css?161306629726562"   rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/simbirsoft/default_10e9abc955a16a1be40f6ee413b0ed76/default_10e9abc955a16a1be40f6ee413b0ed76.css?16130457281835"   rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/simbirsoft/template_b538c55b18b5345f3ecfe78602a8af7f/template_b538c55b18b5345f3ecfe78602a8af7f.css?1613045728200775"   data-template-style="true"  rel="stylesheet" />
+
+
+
+<link rel="preload" as="font" type="font/woff" href="/local/templates/.default/fonts/icon/iconfont.woff" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="/local/templates/.default/fonts/roboto/roboto-regular-webfont.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="/local/templates/.default/fonts/roboto/roboto-light-webfont.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="/local/templates/.default/fonts/open/opensans-bold-webfont.woff2" crossorigin>
+<link rel="preload" as="font" type="font/ttf" href="/local/templates/.default/fonts/roboto/roboto-black-webfont.ttf" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="/local/templates/.default/fonts/open/opensans-semibold-webfont.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="/local/templates/.default/fonts/roboto/roboto-medium-webfont.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="/local/templates/.default/fonts/roboto/roboto-bold-webfont.woff2" crossorigin>
+<link rel="canonical" href="https://www.simbirsoft.com/"/>
+    <meta name="google-site-verification" content="3B1cOOJQ3FGCwwJy5_ry6kmUhONMAfJM38aPtfUF8-0"/>
+    <meta name="facebook-domain-verification" content="5x42wrggydz1xzqdia60rwhsbfp9dd" />
+</head>
+<body id="js-page-body" data-pref="" data-page="1"
+      class="ru">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6BSPX"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<!-- «Привет, Агент #671!» -->
+<div class="main-wrapper">
+        <header class="header  header--hidecalc">
+        <div class="header-nav">
+            <div class="header-nav__wrapper">
+                <a                         title="SimbirSoft" class="header-nav__logo">
+                    <div class="header-nav__logo-text">С 2001 года</div>
+                    <picture>
+                        <source srcset="/local/templates/.default/img/ss-logo-symbol-blue-216-54.webp" class="header-nav__logo-img" type="image/webp"/>
+                        <img src="/local/templates/.default/img/ss-logo-symbol-blue-216-54.png" alt="SimbirSoft" title="" class="header-nav__logo-img">
+                    </picture>
+                    <img src="/local/templates/.default/img/ss-min-logo-symbol-blue.png" alt="SimbirSoft" title=""
+                         class="header-nav__min-logo-img">
+                    <div class="header-nav__logo-text">IT company that cares</div>
+                </a>
+                
+<ul class="header-nav__list">
+
+    	
+	
+					<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="header-nav__item ">
+          <span itemprop="title" class="header-nav__link header-nav__link--icon">
+            Решения          </span>
+				<ul class="header-nav__dropdown">
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="http://finance.simbirsoft.com/" class="header-nav__dropdown-link"  target="_blank">
+                        Для банков                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="http://insurance.simbirsoft.com/" class="header-nav__dropdown-link"  target="_blank">
+                        Для страховых                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="https://estimater.ru/" class="header-nav__dropdown-link"  target="_blank">
+                        Оценка IT-проектов                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="http://data.simbirsoft.com/" class="header-nav__dropdown-link"  target="_blank">
+                        Data Science                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="https://crm.simbirsoft.com/" class="header-nav__dropdown-link"  target="_blank">
+                        Автоматизация бизнеса                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="http://shopchat.simbirsoft.com/" class="header-nav__dropdown-link"  target="_blank">
+                        ShopChat                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="https://foodtech.simbirsoft.com/" class="header-nav__dropdown-link"  target="_blank">
+                        Food Tech                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="https://medtech.simbirsoft.com/" class="header-nav__dropdown-link"  target="_blank">
+                        Для медицинской сферы                    </a>
+                </li>
+			
+		
+	
+	
+    			</ul></li>	
+	
+					<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="header-nav__item ">
+          <span itemprop="title" class="header-nav__link header-nav__link--icon">
+            Услуги          </span>
+				<ul class="header-nav__dropdown">
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/help/it-product/" class="header-nav__dropdown-link" >
+                        IT-продукт под ключ                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/help/outsourcing/" class="header-nav__dropdown-link" >
+                        Аутсорсинг                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/help/upgrade-existing-system/" class="header-nav__dropdown-link" >
+                        Модернизация ПО                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/help/save-a-product/" class="header-nav__dropdown-link" >
+                        «Спасти» продукт                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/help/quality-of-your-it-systems/" class="header-nav__dropdown-link" >
+                        Обеспечение качества                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/help/sla-support/" class="header-nav__dropdown-link" >
+                        Техподдержка production и разработки                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/help/jira/" class="header-nav__dropdown-link" >
+                        Jira Service                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/help/it-architecture/" class="header-nav__dropdown-link" >
+                        IT-архитектура                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/help/bitrix24/" class="header-nav__dropdown-link" >
+                        Внедрение Битрикс24                    </a>
+                </li>
+			
+		
+	
+	
+    			</ul></li>	
+	
+					<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="header-nav__item ">
+          <span itemprop="title" class="header-nav__link header-nav__link--icon">
+            Портфолио          </span>
+				<ul class="header-nav__dropdown">
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/portfolio/technologies/" class="header-nav__dropdown-link" >
+                        Технологии                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/portfolio/industries/" class="header-nav__dropdown-link" >
+                        Отрасли                    </a>
+                </li>
+			
+		
+	
+	
+    			</ul></li>	
+	
+					<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="header-nav__item ">
+          <span itemprop="title" class="header-nav__link header-nav__link--icon">
+            О нас          </span>
+				<ul class="header-nav__dropdown">
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/company/about/" class="header-nav__dropdown-link" >
+                        О компании                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/company/awards/" class="header-nav__dropdown-link" >
+                        Награды                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/company/clients/" class="header-nav__dropdown-link" >
+                        Клиенты и отзывы                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/company/processes/" class="header-nav__dropdown-link" >
+                        Наши процессы                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/company/news/" class="header-nav__dropdown-link" >
+                        Новости                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/company/management/" class="header-nav__dropdown-link" >
+                        Менеджмент                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/company/contacts/" class="header-nav__dropdown-link" >
+                        Контакты                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/company/responsibility/" class="header-nav__dropdown-link" >
+                        Социальная ответственность                    </a>
+                </li>
+			
+		
+	
+	
+    			</ul></li>	
+	
+					<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="header-nav__item ">
+          <span itemprop="title" class="header-nav__link header-nav__link--icon">
+            Карьера          </span>
+				<ul class="header-nav__dropdown">
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/work/" class="header-nav__dropdown-link" >
+                        Работа                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/vacancies/" class="header-nav__dropdown-link" >
+                        Вакансии                    </a>
+                </li>
+			
+		
+	
+	
+    	
+	
+		
+			                				<li class="header-nav__dropdown-item">
+                    <a href="/career/" class="header-nav__dropdown-link" >
+                        Начало карьеры                    </a>
+                </li>
+			
+		
+	
+	
+    			</ul></li>	
+	
+		
+							<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="header-nav__item cursor-default">
+                    <a href="/blog/"  class="header-nav__link  " >
+                        <span>Блог</span>
+                    </a>
+                </li>
+			
+		
+	
+	
+                    
+    <li>
+        <svg class="header-nav__close header-nav-open" width="20px" height="20px" viewBox="0 0 20 20" >
+            <g transform="translate(-361.000000, -140.000000)" fill="#5B5B58">
+                <g transform="translate(84.000000, 120.000000)">
+                    <g transform="translate(57.000000, 0.000000)">
+                        <path d="M230.52879,30 L239.890376,20.6384146 C240.036541,20.492249 240.036541,20.2557899 239.890376,20.1096242 C239.74421,19.9634586 239.507252,19.9634586 239.361087,20.1096242 L230,29.4707107 L220.638415,20.1096242 C220.492249,19.9634586 220.25579,19.9634586 220.109624,20.1096242 C219.963459,20.2557899 219.963459,20.492249 220.109624,20.6384146 L229.470711,30 L220.109624,39.3610865 C219.963459,39.5072522 219.963459,39.7437113 220.109624,39.8898769 C220.182458,39.9632092 220.278239,39.9996259 220.374019,39.9996259 C220.4698,39.9996259 220.565581,39.9632092 220.638415,39.8898769 L230,30.5292893 L239.361087,39.8898769 C239.434419,39.9632092 239.529701,39.9996259 239.625482,39.9996259 C239.721263,39.9996259 239.817044,39.9632092 239.890376,39.8898769 C240.036541,39.7437113 240.036541,39.5072522 239.890376,39.3610865 L230.52879,30" id="Fill-143"></path>
+                    </g>
+                </g>
+            </g>
+        </svg>
+    </li>
+      <li>
+          <span itemprop="title" class="header-nav__link">
+              <a href="#contact-form" rel="modal:open" class="btn btn--default header-nav__button contact_us">Напишите нам</a>
+          </span>
+      </li>
+</ul>
+<div class="menu-clear-left"></div>
+
+                <div id="bxdynamic_lang-block_start" style="display:none"></div><div id="bxdynamic_lang-block_end" style="display:none"></div>
+                <a href="#contact-form" rel="modal:open" class="btn btn--default header-nav__button">Напишите нам</a>
+                <a href="tel:+78002009924" class="header-nav__phone" title="Позвонить">
+                    8-800-200-9924
+                </a>
+                <svg width="32" height="32" viewBox="0 0 32 32" class="header-nav__menu header-nav-open">
+                    <path d="M 7,16l 18,0 C 25.552,16, 26,15.552, 26,15C 26,14.448, 25.552,14, 25,14l-18,0 C 6.448,14, 6,14.448, 6,15 C 6,15.552, 6.448,16, 7,16zM 7,10l 18,0 C 25.552,10, 26,9.552, 26,9C 26,8.448, 25.552,8, 25,8l-18,0 C 6.448,8, 6,8.448, 6,9 C 6,9.552, 6.448,10, 7,10zM 7,22l 18,0 c 0.552,0, 1-0.448, 1-1c0-0.552-0.448-1-1-1l-18,0 C 6.448,20, 6,20.448, 6,21 C 6,21.552, 6.448,22, 7,22z">
+                    </path>
+                </svg>
+            </div>
+                    </div>
+        <div class="cookies-warn" id="cookies-warn">
+            <div class="close-cookie-warn">Ок</div>
+            <p class="text-cookie-warn">
+                <!--noindex-->Наш сайт использует файлы cookie. Оставаясь на www.simbirsoft.com, вы подтверждаете свое
+                согласие на использование данных файлов<!--/noindex-->
+            </p>
+        </div>
+                    <div class="header__background-wrap">
+                <picture>
+                    <source class="header__background" srcset="/local/templates/.default/img/top_bg/banner-bg2_480.webp" media="(max-width: 480px)" type="image/webp" />
+                    <source class="header__background" srcset="/local/templates/.default/img/top_bg/banner-bg2_767.webp" media="(max-width: 767px)" type="image/webp" />
+                    <source class="header__background" srcset="/local/templates/.default/img/top_bg/banner-bg2_992x500.webp" media="(max-width: 992px)" type="image/webp" />
+                    <source class="header__background" srcset="/local/templates/.default/img/top_bg/banner-bg2_min.webp" type="image/webp" />
+                    <img class="header__background" src="/local/templates/.default/img/top_bg/banner-bg2.jpg" alt="" />
+                </picture>            </div>
+            <div class="header__description">
+                <h1 class='header__title'>
+                    <span class='header__title--second'>Разработка программного обеспечения</span><br>
+                    <span class='header__title--second'>для <span
+                                class='header__title--text-color'>роста</span></span><br>
+                    <span class='header__title--fourth'>Вашего бизнеса</span>
+                </h1>
+
+                <div class="header__description-contacts">
+                    <a href="#contact-form" rel="modal:open"
+                       class="header-nav__link header-nav__mail-link contacts__btn" title="Написать">Напишите нам</a>
+                    <a href="tel:+78002009924" class="header-nav__link header-nav__phone-link" title="Позвонить">8-800-200-9924</a>
+                </div>
+            </div>
+            <div class="header__bottom">
+                Лидеры в разработке современных IT-решений на заказ            </div>
+            </header>
+    <main class="content">
+    <div class="wrapper-content">
+        <p class="main-page-block">SimbirSoft — компания по разработке программного обеспечения. С 2001 года мы занимаемся
+            профессиональной разработкой софта на заказ. Наши специалисты оказывают услуги по созданию качественного продукта, отвечающего
+            всем требованиям бизнеса.
+        </p>
+    </div>
+
+<div id="bxdynamic_FEp1a6_start" style="display:none"></div>            <div class="event-banner">
+            <div class="wrapper-content">
+                <a class="event-banner__link" href="https://simbirsoft-events.timepad.ru/event/1538796/?utm_source=simbirsoft&utm_medium=banner&utm_campaign=techrev2.0" target="_blank">
+                    <picture>
+                        <source srcset="/local/templates/.default/img/event-banners/banner-320.webp" media="(max-width: 480px)" type="image/webp" />
+                        <source srcset="/local/templates/.default/img/event-banners/banner-480.webp" media="(max-width: 640px)" type="image/webp" />
+                        <source srcset="/local/templates/.default/img/event-banners/banner-480.png" media="(max-width: 640px)"/>
+                        <source srcset="/local/templates/.default/img/event-banners/banner-640.webp" media="(max-width: 992px)" type="image/webp" />
+                        <source srcset="/local/templates/.default/img/event-banners/banner-2848.webp" type="image/webp"/>
+                        <img class="event-banner__background" src="/local/templates/.default/img/event-banners/banner-2848.png" alt="Online-конференция ТЕХНОРЕВОЛЮЦИЯ 20 марта" />
+                    </picture>
+                    <img class="event-banner__element event-banner__element--1" src="/local/templates/.default/img/event-banners/banner-element_1.png" alt="" />
+                    <img class="event-banner__element event-banner__element--2" src="/local/templates/.default/img/event-banners/banner-element_2.png" alt="" />
+                </a>
+            </div>
+        </div>
+    <div id="bxdynamic_FEp1a6_end" style="display:none"></div><section class="section help">
+  <div class="wrapper-content">
+    <h2 class="title title__h2">Чем мы можем помочь</h2>
+    <ul class="help__list">
+                    <li class="help__item">
+                <a href="/help/it-product/" class="help__link">
+                <div class="help__img">
+                    <object type="image/svg+xml" data="/upload/iblock/34b/34b18f7c409d0ebb6075ee1a2d414d58.svg" width="110" height="110"></object>
+                </div>
+                    <div class="help__text-title">Разработать IT&#8209;продукт «под ключ»</div>
+                    <div class="help__description">Быстро разберёмся в вашей задаче и предоставим результат в минимальные сроки. Организуем цикл разработки, тестирования, внедрения и сопровождения системы.</div>
+                </a>
+            </li>
+                    <li class="help__item">
+                <a href="/help/quality-of-your-it-systems/" class="help__link">
+                <div class="help__img">
+                    <object type="image/svg+xml" data="/upload/iblock/cda/cda07c1c932c422c361cda5436b7884b.svg" width="110" height="110"></object>
+                </div>
+                    <div class="help__text-title">Обеспечить надежную работу ваших IT‑систем</div>
+                    <div class="help__description">Выявим уязвимости, проверим нагрузку и работоспособность, протестируем юзабилити. Ваш сайт, приложение и другое ПО принесут максимальную выгоду.</div>
+                </a>
+            </li>
+                    <li class="help__item">
+                <a href="/help/outsourcing/" class="help__link">
+                <div class="help__img">
+                    <object type="image/svg+xml" data="/upload/iblock/9f6/9f672a6910a171ed36acd0457d5d46ed.svg" width="110" height="110"></object>
+                </div>
+                    <div class="help__text-title">Оказать услуги IT‑аутсорсинга</div>
+                    <div class="help__description">Оперативно сформируем и подключим команды по аналитике, тестированию, дизайну и разработке. Спроектируем архитектуру, проведём интеграцию систем, окажем техническую поддержку production.</div>
+                </a>
+            </li>
+                    <li class="help__item">
+                <a href="/help/save-a-product/" class="help__link">
+                <div class="help__img">
+                    <object type="image/svg+xml" data="/upload/iblock/bab/bab1f41db7893daa25e726617ef9faae.svg" width="110" height="110"></object>
+                </div>
+                    <div class="help__text-title">«Спасти» продукт</div>
+                    <div class="help__description">Восстановим систему после неудачной разработки, выпустим продукт в релиз и организуем процесс стабильного развития продукта.</div>
+                </a>
+            </li>
+            </ul>
+  </div>
+</section>
+<section class="section profitable">
+  <div class="wrapper-content">
+    <div class="profitable__block">
+      <h2 class="title title__h2">Почему с нами выгодно</h2>
+            <div class="tabs profitable__tabs">
+                        <div class="tabs__item" id="bx_651765591_5">
+            <svg class="tabs__icon" width="40px" height="40px" viewBox="0 0 438.536 438.536">
+              <path d="M414.41,24.123C398.333,8.042,378.963,0,356.315,0H82.228C59.58,0,40.21,8.042,24.126,24.123
+                C8.045,40.207,0.003,59.576,0.003,82.225v274.084c0,22.647,8.042,42.018,24.123,58.102c16.084,16.084,35.454,24.126,58.102,24.126
+                h274.084c22.648,0,42.018-8.042,58.095-24.126c16.084-16.084,24.126-35.454,24.126-58.102V82.225
+                C438.532,59.576,430.49,40.204,414.41,24.123z M370.88,159.024l-175.307,175.3c-3.615,3.614-7.898,5.428-12.85,5.428
+                c-4.95,0-9.233-1.807-12.85-5.421L67.663,232.118c-3.616-3.62-5.424-7.898-5.424-12.848c0-4.949,1.809-9.233,5.424-12.847
+                l29.124-29.124c3.617-3.616,7.895-5.424,12.847-5.424c4.952,0,9.235,1.809,12.851,5.424l60.242,60.24l133.334-133.333
+                c3.606-3.617,7.898-5.424,12.847-5.424c4.945,0,9.227,1.807,12.847,5.424l29.126,29.125c3.61,3.615,5.421,7.898,5.421,12.847
+                S374.49,155.411,370.88,159.024z"/>
+            </svg>
+            <div class="tabs__title">Выстраиваем процессы там, где их нет; подстраиваемся там, где они есть</div>
+            <div class="tabs__text">Вы получаете нужное IT-решение, а мы заботимся о технических деталях проекта</div>
+          </div>
+                                <div class="tabs__item" id="bx_651765591_4">
+            <svg class="tabs__icon" width="40px" height="40px" viewBox="0 0 438.536 438.536">
+              <path d="M414.41,24.123C398.333,8.042,378.963,0,356.315,0H82.228C59.58,0,40.21,8.042,24.126,24.123
+                C8.045,40.207,0.003,59.576,0.003,82.225v274.084c0,22.647,8.042,42.018,24.123,58.102c16.084,16.084,35.454,24.126,58.102,24.126
+                h274.084c22.648,0,42.018-8.042,58.095-24.126c16.084-16.084,24.126-35.454,24.126-58.102V82.225
+                C438.532,59.576,430.49,40.204,414.41,24.123z M370.88,159.024l-175.307,175.3c-3.615,3.614-7.898,5.428-12.85,5.428
+                c-4.95,0-9.233-1.807-12.85-5.421L67.663,232.118c-3.616-3.62-5.424-7.898-5.424-12.848c0-4.949,1.809-9.233,5.424-12.847
+                l29.124-29.124c3.617-3.616,7.895-5.424,12.847-5.424c4.952,0,9.235,1.809,12.851,5.424l60.242,60.24l133.334-133.333
+                c3.606-3.617,7.898-5.424,12.847-5.424c4.945,0,9.227,1.807,12.847,5.424l29.126,29.125c3.61,3.615,5.421,7.898,5.421,12.847
+                S374.49,155.411,370.88,159.024z"/>
+            </svg>
+            <div class="tabs__title">Технологическая экспертиза для решения комплексных задач</div>
+            <div class="tabs__text"><br>
+Вы приобретаете единого партнера для ваших<br>IT-потребностей</div>
+          </div>
+                                <div class="tabs__item" id="bx_651765591_6">
+            <svg class="tabs__icon" width="40px" height="40px" viewBox="0 0 438.536 438.536">
+              <path d="M414.41,24.123C398.333,8.042,378.963,0,356.315,0H82.228C59.58,0,40.21,8.042,24.126,24.123
+                C8.045,40.207,0.003,59.576,0.003,82.225v274.084c0,22.647,8.042,42.018,24.123,58.102c16.084,16.084,35.454,24.126,58.102,24.126
+                h274.084c22.648,0,42.018-8.042,58.095-24.126c16.084-16.084,24.126-35.454,24.126-58.102V82.225
+                C438.532,59.576,430.49,40.204,414.41,24.123z M370.88,159.024l-175.307,175.3c-3.615,3.614-7.898,5.428-12.85,5.428
+                c-4.95,0-9.233-1.807-12.85-5.421L67.663,232.118c-3.616-3.62-5.424-7.898-5.424-12.848c0-4.949,1.809-9.233,5.424-12.847
+                l29.124-29.124c3.617-3.616,7.895-5.424,12.847-5.424c4.952,0,9.235,1.809,12.851,5.424l60.242,60.24l133.334-133.333
+                c3.606-3.617,7.898-5.424,12.847-5.424c4.945,0,9.227,1.807,12.847,5.424l29.126,29.125c3.61,3.615,5.421,7.898,5.421,12.847
+                S374.49,155.411,370.88,159.024z"/>
+            </svg>
+            <div class="tabs__title">Работа со скоростью потребностей вашего бизнеса</div>
+            <div class="tabs__text">Вы достигаете бизнес-цели и получаете результат в ожидаемый срок </div>
+          </div>
+                                <div class="tabs__item" id="bx_651765591_7">
+            <svg class="tabs__icon" width="40px" height="40px" viewBox="0 0 438.536 438.536">
+              <path d="M414.41,24.123C398.333,8.042,378.963,0,356.315,0H82.228C59.58,0,40.21,8.042,24.126,24.123
+                C8.045,40.207,0.003,59.576,0.003,82.225v274.084c0,22.647,8.042,42.018,24.123,58.102c16.084,16.084,35.454,24.126,58.102,24.126
+                h274.084c22.648,0,42.018-8.042,58.095-24.126c16.084-16.084,24.126-35.454,24.126-58.102V82.225
+                C438.532,59.576,430.49,40.204,414.41,24.123z M370.88,159.024l-175.307,175.3c-3.615,3.614-7.898,5.428-12.85,5.428
+                c-4.95,0-9.233-1.807-12.85-5.421L67.663,232.118c-3.616-3.62-5.424-7.898-5.424-12.848c0-4.949,1.809-9.233,5.424-12.847
+                l29.124-29.124c3.617-3.616,7.895-5.424,12.847-5.424c4.952,0,9.235,1.809,12.851,5.424l60.242,60.24l133.334-133.333
+                c3.606-3.617,7.898-5.424,12.847-5.424c4.945,0,9.227,1.807,12.847,5.424l29.126,29.125c3.61,3.615,5.421,7.898,5.421,12.847
+                S374.49,155.411,370.88,159.024z"/>
+            </svg>
+            <div class="tabs__title">Первый результат в первый месяц работ</div>
+            <div class="tabs__text">Вы оперативно видите отдачу на вложения</div>
+          </div>
+                                <div class="tabs__item" id="bx_651765591_34">
+            <svg class="tabs__icon" width="40px" height="40px" viewBox="0 0 438.536 438.536">
+              <path d="M414.41,24.123C398.333,8.042,378.963,0,356.315,0H82.228C59.58,0,40.21,8.042,24.126,24.123
+                C8.045,40.207,0.003,59.576,0.003,82.225v274.084c0,22.647,8.042,42.018,24.123,58.102c16.084,16.084,35.454,24.126,58.102,24.126
+                h274.084c22.648,0,42.018-8.042,58.095-24.126c16.084-16.084,24.126-35.454,24.126-58.102V82.225
+                C438.532,59.576,430.49,40.204,414.41,24.123z M370.88,159.024l-175.307,175.3c-3.615,3.614-7.898,5.428-12.85,5.428
+                c-4.95,0-9.233-1.807-12.85-5.421L67.663,232.118c-3.616-3.62-5.424-7.898-5.424-12.848c0-4.949,1.809-9.233,5.424-12.847
+                l29.124-29.124c3.617-3.616,7.895-5.424,12.847-5.424c4.952,0,9.235,1.809,12.851,5.424l60.242,60.24l133.334-133.333
+                c3.606-3.617,7.898-5.424,12.847-5.424c4.945,0,9.227,1.807,12.847,5.424l29.126,29.125c3.61,3.615,5.421,7.898,5.421,12.847
+                S374.49,155.411,370.88,159.024z"/>
+            </svg>
+            <div class="tabs__title">100&#37; релизов выполнено в срок</div>
+            <div class="tabs__text">Вы видите четкий результат на всех этапах<br>
+в предсказуемые сроки</div>
+          </div>
+                                <div class="tabs__item" id="bx_651765591_1505">
+            <svg class="tabs__icon" width="40px" height="40px" viewBox="0 0 438.536 438.536">
+              <path d="M414.41,24.123C398.333,8.042,378.963,0,356.315,0H82.228C59.58,0,40.21,8.042,24.126,24.123
+                C8.045,40.207,0.003,59.576,0.003,82.225v274.084c0,22.647,8.042,42.018,24.123,58.102c16.084,16.084,35.454,24.126,58.102,24.126
+                h274.084c22.648,0,42.018-8.042,58.095-24.126c16.084-16.084,24.126-35.454,24.126-58.102V82.225
+                C438.532,59.576,430.49,40.204,414.41,24.123z M370.88,159.024l-175.307,175.3c-3.615,3.614-7.898,5.428-12.85,5.428
+                c-4.95,0-9.233-1.807-12.85-5.421L67.663,232.118c-3.616-3.62-5.424-7.898-5.424-12.848c0-4.949,1.809-9.233,5.424-12.847
+                l29.124-29.124c3.617-3.616,7.895-5.424,12.847-5.424c4.952,0,9.235,1.809,12.851,5.424l60.242,60.24l133.334-133.333
+                c3.606-3.617,7.898-5.424,12.847-5.424c4.945,0,9.227,1.807,12.847,5.424l29.126,29.125c3.61,3.615,5.421,7.898,5.421,12.847
+                S374.49,155.411,370.88,159.024z"/>
+            </svg>
+            <div class="tabs__title">Сокращаем time-to-market</div>
+            <div class="tabs__text">Вы получаете преимущество по скорости выхода вашего IT-продукта</div>
+          </div>
+                    </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<section class="section">
+  <div class="wrapper-content">
+    <h2 class="title title__h2">Нам доверяют</h2>
+
+    <div class="carousel trust__carousel">
+                    <div class="carousel__items" >
+              <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/6ae/Sovest_min.png" class="lazyload"></div>
+        </div>
+                        <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/982/vita_logo_900-_1_.jpg" class="lazyload"></div>
+        </div>
+              </div>
+                      <div class="carousel__items" >
+              <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/333/burger_king_min.jpg" class="lazyload"></div>
+        </div>
+                        <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/c68/v01z6_1_SKB_bank.png" class="lazyload"></div>
+        </div>
+              </div>
+                      <div class="carousel__items" >
+              <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/6ff/tsian2.jpg" class="lazyload"></div>
+        </div>
+                        <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/ee6/tochka-bank2.png" class="lazyload"></div>
+        </div>
+              </div>
+                      <div class="carousel__items" >
+              <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/64b/severstal.png" class="lazyload"></div>
+        </div>
+                        <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/376/RFBLogo.jpg" class="lazyload"></div>
+        </div>
+              </div>
+                      <div class="carousel__items" >
+              <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/600/tinkoff_1_.png" class="lazyload"></div>
+        </div>
+                        <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/a45/Axes_1_.jpg" class="lazyload"></div>
+        </div>
+              </div>
+                      <div class="carousel__items" >
+              <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/d95/tsifra.png" class="lazyload"></div>
+        </div>
+                        <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/219/TN_logo_min.jpg" class="lazyload"></div>
+        </div>
+              </div>
+                      <div class="carousel__items" >
+              <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/d0d/71064581e9725ef369cb9d67acdaa865.png" class="lazyload"></div>
+        </div>
+                        <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/3bf/banki.ru_logo_500kh132_min.jpg" class="lazyload"></div>
+        </div>
+              </div>
+                      <div class="carousel__items" >
+              <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/6c1/mveldo_logo_web_rus_1_.png" class="lazyload"></div>
+        </div>
+                        <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/eb2/Lukoyl_logo-s-sayta_png.png" class="lazyload"></div>
+        </div>
+              </div>
+                      <div class="carousel__items" >
+              <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/2dc/DPD_logo_redgrad_rgb_1_.png" class="lazyload"></div>
+        </div>
+                        <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/656/Logo_BIA_1_RGB.png" class="lazyload"></div>
+        </div>
+              </div>
+                      <div class="carousel__items" >
+              <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/1ef/mailservice_1_.png" class="lazyload"></div>
+        </div>
+                        <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/af9/Logo_PNG.png" class="lazyload"></div>
+        </div>
+              </div>
+                      <div class="carousel__items" >
+              <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/576/b1eac6eb071834aed03eba960f194a2c.png" class="lazyload"></div>
+        </div>
+                        <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/930/a17eddf20b1ca4d2b13c90ee8c23030f.png" class="lazyload"></div>
+        </div>
+              </div>
+                      <div class="carousel__items" >
+              <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/be0/031a23af0a579303697ebe1ecf160109.png" class="lazyload"></div>
+        </div>
+                        <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/c75/MailRu_Group_Logo_min.png" class="lazyload"></div>
+        </div>
+              </div>
+                      <div class="carousel__items" >
+              <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/b89/98fa5939eb0cbdfca2b0cb84f461664c.png" class="lazyload"></div>
+        </div>
+                        <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/f64/c52c1cd660e3401b40d230881f6d7d06.png" class="lazyload"></div>
+        </div>
+              </div>
+                      <div class="carousel__items" >
+              <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/4b7/04bfd0aae313ba956d4366861e28b6e3.png" class="lazyload"></div>
+        </div>
+                        <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/6b7/a51fe3d721c48d433b0e74ae7d433998.png" class="lazyload"></div>
+        </div>
+              </div>
+                      <div class="carousel__items" >
+              <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/406/dce06ad97d6341f8b77ac9893f54f50f.png" class="lazyload"></div>
+        </div>
+                        <div class='carousel__img trust-edgeBlock'>
+            <div data-bg="/upload/iblock/c8b/88d0bb404e5d4e4ea8c7aaddeff33cb7.png" class="lazyload"></div>
+        </div>
+              </div>
+              </div>
+
+
+
+    <a href="/company/clients/" class="btn btn--default">Посмотреть все</a>
+  </div>
+</section>
+<section class="section phrases">
+    <div class="wrapper-content">
+      <div class="phrases__block">
+        <h2 class="title title__h2 phrases__title">100 фраз о нас</h2>
+        <div class="phrases__list">
+                    <div class="phrases__item"><div>"Оперативная реакция на наши пожелания"</div></div>
+                    <div class="phrases__item"><div>"Мы просто полагались на их опыт и получили блестящие результаты"</div></div>
+                    <div class="phrases__item"><div>"Свернут горы, чтобы удовлетворить наши высокие требования"</div></div>
+                    <div class="phrases__item"><div>"Очень гибкий подход к решению задач"</div></div>
+                    <div class="phrases__item"><div>"Моментально реагируют на любые запросы"</div></div>
+                    <div class="phrases__item"><div>"Искренне хотят сделать продукт на максимум!"</div></div>
+                    <div class="phrases__item"><div>"Предлагают альтернативные варианты реализации с учетом сроков и бюджета"</div></div>
+                    <div class="phrases__item"><div>"Показали очень высокий уровень разработки"</div></div>
+                    <div class="phrases__item"><div>"Спасли наш проект, с которым не справилась другая команда"</div></div>
+                    <div class="phrases__item"><div>"Мы довольны вкладом в успех проекта и человеческими отношениями"</div></div>
+                    <div class="phrases__item"><div>"Всегда готовы предоставить нам профессиональную команду"</div></div>
+                    <div class="phrases__item"><div>"Проявляют инициативность в создании качественного продукта"</div></div>
+                    <div class="phrases__item"><div>"Создали комфортные условия для партнерских отношений"</div></div>
+                    <div class="phrases__item"><div>"Все задачи, какими бы сложными они ни были, выполняются качественно и в срок"</div></div>
+                    <div class="phrases__item"><div>"«Прозрачный» процесс разработки дает возможность всегда быть в курсе хода работ"</div></div>
+                    <div class="phrases__item"><div>"Мы очень довольны подходом СимбирСофт к анализу, разработке, контролю качества и управлению"</div></div>
+                    <div class="phrases__item"><div>"Внесли ясность в те требования, которые мы сами не очень себе представляли"</div></div>
+                    <div class="phrases__item"><div>"Собранность и выполнение задач в очень короткие сроки"</div></div>
+                    <div class="phrases__item"><div>"Всегда корректное и приятное общение"</div></div>
+                    <div class="phrases__item"><div>"Компетентные, ответственные и доброжелательные профессионалы"</div></div>
+                    <div class="phrases__item"><div>"Всегда выполняют работу на самом высоком уровне"</div></div>
+                    <div class="phrases__item"><div>"Нас впечатлили этапы аналитики, подготовки прототипов и дизайна"</div></div>
+                    <div class="phrases__item"><div>"В СимбирСофт всегда предлагают креативные и инновационные подходы к решению сложных задач"</div></div>
+                    <div class="phrases__item"><div>"Быстро погрузились в наши бизнес-процессы и показали отличный результат"</div></div>
+                    <div class="phrases__item"><div>"Опыт СимбирСофт внес свой вклад в общий успех нашего сотрудничества"</div></div>
+                    <div class="phrases__item"><div>"Мы получаем хорошую отдачу инвестиций от этого сотрудничества"</div></div>
+                    <div class="phrases__item"><div>"Соблюдены все обязательства по срокам реализации и качеству работы"</div></div>
+                    <div class="phrases__item"><div>"Предлагали пути улучшения логики работы приложения и увеличения производительности"</div></div>
+                    <div class="phrases__item"><div>"Превзошли ожидания и выполнили даже больше запланированного"</div></div>
+                    <div class="phrases__item"><div>"Команда работала очень быстро, что позволило уложиться в обещанные сроки"</div></div>
+                    <div class="phrases__item"><div>"Готовы обсуждать смену приоритетов действий и разбивку по срокам"</div></div>
+                    <div class="phrases__item"><div>"Буквально через несколько месяцев мы получили первые результаты работ"</div></div>
+                    <div class="phrases__item"><div>"Мы прекрасно понимали, какой результат ожидать по окончанию этапа"</div></div>
+                    <div class="phrases__item"><div>"Они полностью оправдали наши ожидания"</div></div>
+                    <div class="phrases__item"><div>"Быстро включились в проект, освоив незнакомую технологическую платформу"</div></div>
+                    <div class="phrases__item"><div>"Мы опирались на их опыт и преданность делу"</div></div>
+                    <div class="phrases__item"><div>"Предельно адаптировали всех участников команды к нашим требованиям"</div></div>
+                    <div class="phrases__item"><div>"Они буквально прочитали наши мысли и предоставили прототип самого высокого качества"</div></div>
+                    <div class="phrases__item"><div>"Нацелены на долгосрочную работу"</div></div>
+                    <div class="phrases__item"><div>"Мы увидели качественные результаты после первой недели работы"</div></div>
+                    <div class="phrases__item"><div>"Первый адаптер был готов через несколько недель после заключения договора"</div></div>
+                    <div class="phrases__item"><div>"Их ежедневная вовлеченность в наши задачи дала нам понять, что мы выбрали отличного партнера "</div></div>
+                    <div class="phrases__item"><div>"Создали реально работающий продукт за разумные деньги"</div></div>
+                    <div class="phrases__item"><div>"Всегда слышат, чего хочет клиент"</div></div>
+                    <div class="phrases__item"><div>"Мы с уверенностью смотрим в будущее"</div></div>
+                    <div class="phrases__item"><div>"В ходе работ максимально учитывались пожелания заказчика"</div></div>
+                    <div class="phrases__item"><div>"Все поставленные задачи были выполнены в срок"</div></div>
+                    <div class="phrases__item"><div>"Дают четкое понимание того, какой результат ожидать"</div></div>
+                    <div class="phrases__item"><div>"Они креативно мыслят, чтобы достичь целей клиента наилучшим образом"</div></div>
+                    <div class="phrases__item"><div>"Мы ценим интересные идеи по разработке нашего сервиса"</div></div>
+                    <div class="phrases__item"><div>"Высокая организованность процессов и ведения проектов"</div></div>
+                    <div class="phrases__item"><div>"Темп работы команды точно соответствовал нашим ожиданиям и оценкам"</div></div>
+                    <div class="phrases__item"><div>"Всегда делают все возможное, чтобы удовлетворить наши высокие требования"</div></div>
+                    <div class="phrases__item"><div>"Благодаря им мы разработали 6 крупных продуктов"</div></div>
+                    <div class="phrases__item"><div>"Оперативно подключили необходимых специалистов"</div></div>
+                    <div class="phrases__item"><div>"Хорошо сработанная команда с высоким потенциалом к взаимовыгодному сотрудничеству"</div></div>
+                    <div class="phrases__item"><div>"Через два месяца после начала работы первая версия системы была готова"</div></div>
+                    <div class="phrases__item"><div>"Адаптировались под потребности нашего агентства"</div></div>
+                    <div class="phrases__item"><div>"Преимущество компании в наличии собственных сертифицированных экспертов"</div></div>
+                    <div class="phrases__item"><div>"Всегда можем рассчитывать на дополнительных специалистов в течение нескольких часов"</div></div>
+                    <div class="phrases__item"><div>"Предоставляют специалистов, которые становятся частью нашей команды"</div></div>
+                    <div class="phrases__item"><div>"Разработали для нас несколько мобильных приложений для интернета вещей"</div></div>
+                    <div class="phrases__item"><div>"Мы получили все демонстрационные варианты вовремя и с работающим функционалом"</div></div>
+                    <div class="phrases__item"><div>"Реализовали мобильное приложение в точности так, как я планировал"</div></div>
+                    <div class="phrases__item"><div>"Мы получили готовый продукт, отвечающий нашим ожиданиям"</div></div>
+                    <div class="phrases__item"><div>"Я доволен теми IT продуктами, которые мы получаем в результате разработки"</div></div>
+                    <div class="phrases__item"><div>"Качество и демонстрация прототипа превзошли все наши ожидания"</div></div>
+                    <div class="phrases__item"><div>"Заботятся о потребностях и бизнес целях заказчика"</div></div>
+                    <div class="phrases__item"><div>"Всегда находят творческие и нетривиальные подходы к решению задач"</div></div>
+                    <div class="phrases__item"><div>"Проактивность специалистов приятно удивляет"</div></div>
+                    <div class="phrases__item"><div>"Наш проект был исключительно успешным"</div></div>
+                    <div class="phrases__item"><div>"Мы успешно завершили десятки проектов, сотрудничая с ними"</div></div>
+                    <div class="phrases__item"><div>"Удалось быстро вникнуть в необходимую предметную область"</div></div>
+                    <div class="phrases__item"><div>"Всегда быстро реагируют на пожелания"</div></div>
+                    <div class="phrases__item"><div>"Выполнили работу на высоком уровне и эффективно решили наши задачи"</div></div>
+                    <div class="phrases__item"><div>"Я не знаю более клиентоориентированной IT-компании"</div></div>
+                    <div class="phrases__item"><div>"Мы ценим их подход к анализу, разработке, обеспечению качества и управлению"</div></div>
+                    <div class="phrases__item"><div>"Нам очень понравилось сотрудничать с ними"</div></div>
+                    <div class="phrases__item"><div>"Вся необходимая для разработки информация поступала вовремя"</div></div>
+                    <div class="phrases__item"><div>"Ориентируют свой бизнес в соответствии с тенденциями мирового IT-рынка"</div></div>
+                    <div class="phrases__item"><div>"Качественно разработали компоненты нашего флагманского продукта"</div></div>
+                    <div class="phrases__item"><div>"Очень довольны сотрудничеством в сфере мобильной разработки"</div></div>
+                    <div class="phrases__item"><div>"Еженедельно выделенный менеджер демонстрировал нам текущую версию продукта"</div></div>
+                    <div class="phrases__item"><div>"Достойный партнер для реализации сложных и ответственных проектов"</div></div>
+                    <div class="phrases__item"><div>"С менеджментом всегда можно найти общий язык"</div></div>
+                    <div class="phrases__item"><div>"Укладываются в сжатые сроки"</div></div>
+                    <div class="phrases__item"><div>"Подходят к выполнению задач с душой и выполняют их в сроки"</div></div>
+                    <div class="phrases__item"><div>"Взяли на себя ведущую роль в разработке"</div></div>
+                    <div class="phrases__item"><div>"Мы получили качественные результаты уже через два месяца"</div></div>
+                    <div class="phrases__item"><div>"Всегда найдут способ разработать лучший продукт даже в условиях стресса"</div></div>
+                    <div class="phrases__item"><div>"Ответственная и профессиональная команда"</div></div>
+                    <div class="phrases__item"><div>"Способны решать задачи широкого технологического спектра"</div></div>
+                    <div class="phrases__item"><div>"Уделяют внимание деталям"</div></div>
+                    <div class="phrases__item"><div>"Наши пользователи остались довольны приложением"</div></div>
+                    <div class="phrases__item"><div>"В графическом интерфейсе реализуются все самые смелые пожелания"</div></div>
+                    <div class="phrases__item"><div>"Задачи были выполнены гораздо быстрее запланированного срока"</div></div>
+                    <div class="phrases__item"><div>"Высоко квалифицированная команда"</div></div>
+                    <div class="phrases__item"><div>"С их помощью мы прошли инвестиционный раунд и выиграли грант Сколково"</div></div>
+                    <div class="phrases__item"><div>"Уверенное владение английским языком"</div></div>
+                    <div class="phrases__item"><div>"Мы полностью видели и  контролировали весь процесс разработки"</div></div>
+                  </div>
+        <a href="/company/clients/#reviews" class="btn btn--default phrases__button">Читать все</a>
+      </div>
+    </div>
+</section>
+
+ <section class="section achievements">
+  <div class="wrapper-content">
+    <h2 class="title title__h2 achievements__title">Наши награды</h2>
+    <div class="carousel achievements__carousel">
+                    <div class="carousel__items">
+              <a href="https://www.softwareworld.co/top-mobile-app-development-companies-russia/" class="carousel__items-link" target="_blank">
+          <img class="carousel__img lazyload" data-src="/upload/iblock/a98/softwareworld_min.png" alt="Software Development Companies" id="bx_3099439860_1606" src="">
+        </a>
+                          <a href="https://www.topdevelopers.co/directory/mobile-app-developers/country/russia" class="carousel__items-link" target="_blank">
+          <img class="carousel__img lazyload" data-src="/upload/iblock/08b/web_and_software_april_2019_190_150_min.jpg" alt="TopDevelopers.co" id="bx_3099439860_1573" src="">
+        </a>
+              </div>
+                      <div class="carousel__items">
+              <a href="https://clutch.co/press-releases/honors-top-1000-service-providers-2020-exclusive-1000-list" class="carousel__items-link" target="_blank">
+          <img class="carousel__img lazyload" data-src="/upload/iblock/4f1/clutch1000_1_.png" alt="Clutch1000" id="bx_3099439860_1911" src="">
+        </a>
+                          <a href="https://clutch.co/profile/simbirsoft" class="carousel__items-link" target="_blank">
+          <img class="carousel__img lazyload" data-src="/upload/iblock/957/clutch.png" alt="clutch" id="bx_3099439860_12" src="">
+        </a>
+              </div>
+                      <div class="carousel__items">
+              <a href="http://www.cnews.ru/" class="carousel__items-link" target="_blank">
+          <img class="carousel__img lazyload" data-src="/upload/iblock/2f3/cnews.png" alt="cnews" id="bx_3099439860_13" src="">
+        </a>
+                          <a href="https://www.goodfirms.co/companies/view/635/simbirsoft" class="carousel__items-link" target="_blank">
+          <img class="carousel__img lazyload" data-src="/upload/iblock/626/googd_firms.png" alt="goodfirms" id="bx_3099439860_1330" src="">
+        </a>
+              </div>
+                      <div class="carousel__items">
+              <a href="https://tagline.ru/web-developers-integrators-rating/" class="carousel__items-link" target="_blank">
+          <img class="carousel__img lazyload" data-src="/upload/iblock/84e/tagline.png" alt="tagline" id="bx_3099439860_44" src="">
+        </a>
+                          <a href="https://techreviewer.co/companies/simbirsoft" class="carousel__items-link" target="_blank">
+          <img class="carousel__img lazyload" data-src="/upload/iblock/b23/techreviwier.png" alt="TechReviewer.co" id="bx_3099439860_1935" src="">
+        </a>
+              </div>
+                      <div class="carousel__items">
+              <a href="http://ratingtechup.ru/rate/2015/?TOP=80" class="carousel__items-link" target="_blank">
+          <img class="carousel__img lazyload" data-src="/upload/iblock/4a4/e1ccaf9305593d6c54f3ae13ca7e8227.png" alt="техуспех" id="bx_3099439860_8" src="">
+        </a>
+                          <a href="https://web-development.cioreview.com/vendors/most-promising-web-development-design-solution-providers-2015.html" class="carousel__items-link" target="_blank">
+          <img class="carousel__img lazyload" data-src="/upload/iblock/234/cioreview.png" alt="cioreview" id="bx_3099439860_43" src="">
+        </a>
+              </div>
+                      <div class="carousel__items">
+              <a href="https://ruward.ru/catalog/simbirsoft-com/#ratings" class="carousel__items-link" target="_blank">
+          <img class="carousel__img lazyload" data-src="/upload/iblock/ac8/ruward.png" alt="ruward" id="bx_3099439860_42" src="">
+        </a>
+                          <a href="https://raex-a.ru/rankingtable/it/2019/main" class="carousel__items-link" target="_blank">
+          <img class="carousel__img lazyload" data-src="/upload/iblock/38f/raex.png" alt="raex" id="bx_3099439860_11" src="">
+        </a>
+              </div>
+                      <div class="carousel__items">
+              <a href="https://lider-otrasli.ru/" class="carousel__items-link" target="_blank">
+          <img class="carousel__img lazyload" data-src="/upload/iblock/f38/lider_otrasli.png" alt="Лидер отрасли" id="bx_3099439860_1857" src="">
+        </a>
+                          <a href="http://premiaruneta.ru/" class="carousel__items-link" target="_blank">
+          <img class="carousel__img lazyload" data-src="/upload/iblock/500/rating_runeta.png" alt="runet" id="bx_3099439860_193" src="">
+        </a>
+              </div>
+                      <div class="carousel__items">
+              <a href="http://www.softwaremag.com/" class="carousel__items-link" target="_blank">
+          <img class="carousel__img lazyload" data-src="/upload/iblock/5df/500software.png" alt="500" id="bx_3099439860_10" src="">
+        </a>
+                          <a href="" class="carousel__items-link" target="_blank">
+          <img class="carousel__img lazyload" data-src="/upload/iblock/3e2/corp_america.png" alt="corp" id="bx_3099439860_191" src="">
+        </a>
+              </div>
+                      <div class="carousel__items">
+              <a href="https://www.iaop.org/Content/19/165/5082" class="carousel__items-link" target="_blank">
+          <img class="carousel__img lazyload" data-src="/upload/iblock/5a0/iaop.png" alt="IAOP" id="bx_3099439860_9" src="">
+        </a>
+              </div>
+              </div>
+    <a href="/company/awards/" class="btn btn--default">Подробнее</a>
+  </div>
+</section>
+
+
+<section class="section contacts">
+    <div class="contacts__background-wrap">
+        <picture>
+            <source class="contacts__background" media="(max-width: 480px)" data-srcset="/local/templates/.default/img/main-page/bg_02_480.webp" type="image/webp" srcset="">
+            <source class="contacts__background" media="(max-width: 480px)" data-srcset="/local/templates/.default/img/main-page/bg_02_480.jpg" srcset="">
+            <source class="contacts__background" media="(max-width: 767px)" data-srcset="/local/templates/.default/img/main-page/bg_02_767.webp" type="image/webp" srcset="">
+            <source class="contacts__background" media="(max-width: 767px)" data-srcset="/local/templates/.default/img/main-page/bg_02_767.jpg" srcset="">
+            <source class="contacts__background" media="(max-width: 992px)" data-srcset="/local/templates/.default/img/main-page/bg_02_992.webp" type="image/webp" srcset="">
+            <source class="contacts__background" media="(max-width: 992px)" data-srcset="/local/templates/.default/img/main-page/bg_02_992.jpg" srcset="">
+            <source class="contacts__background" data-srcset="/local/templates/.default/img/main-page/bg_02.webp" type="image/webp" srcset="">
+            <img class="contacts__background lazyload" data-src="/local/templates/.default/img/main-page/bg_02.jpg" alt="" src="">
+        </picture>
+    </div>
+    <div class="contacts__description">
+        <h2 class="title title__h2 contacts__title">Не знаете, с чего начать?</h2>
+        <a href="#contact-form" rel="modal:open" class="btn btn--default contacts__btn">Напишите нам</a>
+    </div>
+</section>
+
+
+<section class="section news">
+  <div class="wrapper-content">
+    <h2 class="title title__h2">Новости</h2>
+    <div class="news__block">
+              <div class="news__item" id="bx_565502798_2002" data-url="/company/news/eksperty-simbirsoft-v-chisle-luchshikh-v-it-otrasli/">
+          <a href="/company/news/eksperty-simbirsoft-v-chisle-luchshikh-v-it-otrasli/">
+          <div class="news__img">
+            <img data-src="/upload/iblock/29a/Florinskiy_nagrada_1_.png" class="news__image lazyload" alt="Эксперты SimbirSoft – в числе лучших в IT-отрасли" src="">
+          </div>
+          <div class="news__text">
+            <p class="news__title">Эксперты SimbirSoft – в числе лучших в IT-отрасли</p>
+            <div class="news__info"></div>
+            <div class="news__date">
+              <span class="news__date-icon"></span>
+              <span class="news__date-value"><span class="icon-clock_alt"> 05.02.2021</span></span>
+            </div>
+          </div>
+          </a>
+        </div>
+              <div class="news__item" id="bx_565502798_1985" data-url="/company/news/tekhnorevolyutsiya-2-0-obsudim-trendy-v-tekhnologiyakh-i-osobennosti-upravleniya-v-it/">
+          <a href="/company/news/tekhnorevolyutsiya-2-0-obsudim-trendy-v-tekhnologiyakh-i-osobennosti-upravleniya-v-it/">
+          <div class="news__img">
+            <img data-src="/upload/iblock/b32/622_2_.png" class="news__image lazyload" alt="«Технореволюция 2.0»: обсудим тренды в технологиях и особенности управления в IT" src="">
+          </div>
+          <div class="news__text">
+            <p class="news__title">«Технореволюция 2.0»: обсудим тренды в технологиях и особенности управления в IT</p>
+            <div class="news__info"></div>
+            <div class="news__date">
+              <span class="news__date-icon"></span>
+              <span class="news__date-value"><span class="icon-clock_alt"> 02.02.2021</span></span>
+            </div>
+          </div>
+          </a>
+        </div>
+              <div class="news__item" id="bx_565502798_1979" data-url="/company/news/vesna-vremya-rastsveta-skillov-simbirsoft-priglashaet-razrabotchikov-na-it-intensiv/">
+          <a href="/company/news/vesna-vremya-rastsveta-skillov-simbirsoft-priglashaet-razrabotchikov-na-it-intensiv/">
+          <div class="news__img">
+            <img data-src="/upload/iblock/702/900kh622_1_.png" class="news__image lazyload" alt="Весна — время расцвета скиллов. SimbirSoft приглашает разработчиков на IT-интенсив" src="">
+          </div>
+          <div class="news__text">
+            <p class="news__title">Весна — время расцвета скиллов. SimbirSoft приглашает разработчиков на IT-интенсив</p>
+            <div class="news__info"></div>
+            <div class="news__date">
+              <span class="news__date-icon"></span>
+              <span class="news__date-value"><span class="icon-clock_alt"> 25.01.2021</span></span>
+            </div>
+          </div>
+          </a>
+        </div>
+          </div>
+    <div class="news__button">
+      <a href="/company/news/" class="btn btn--default phrases__button">Все новости</a>
+    </div>
+  </div>
+</section>
+
+
+                    </main>
+
+            <footer class="footer">
+                <div class="footer__wrapper">
+                    <div class="footer__top">
+
+                                                    <div class="footer__logo">
+                                                        <div class="footer__logo-text">С 2001 года</div>
+                                <picture>
+                                    <source data-srcset="/local/templates/.default/img/ss-logo-blue-white300.webp" class="footer__logo-img" type="image/webp"/>
+                                    <img data-src="/local/templates/.default/img/ss-logo-blue-white300.png"  class="footer__logo-img lazyload" alt="SimbirSoft" title="">
+                                </picture>
+                                <div class="footer__logo-text">IT company that cares</div>
+                            </div>
+
+                        <div class="footer__info">
+                            С 2001 года СимбирСофт разрабатывает уникальные программные решения для компаний из России, США и стран Европы.
+                        </div>
+
+                        <div class="footer__contacts" itemscope itemtype="http://schema.org/Organization">
+                            <div class="footer__tel">
+                                <div>
+                                    <a href="tel:+78002009924" title="Позвонить" class="footer__tel-link">
+                                        <span class="icon-phone"></span> <span  itemprop="telephone">8-800-200-9924</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="footer__email">
+                                <div>
+                                    <a href="mailto:request@simbirsoft.com" title="Написать нам" class="footer__email">
+                                        <span class="icon-email"></span> <span itemprop="email">REQUEST@SIMBIRSOFT.COM</span>
+                                    </a>
+                                                                            <div style="display: none;" itemprop="name">SimbirSoft</div>
+                                        <div style="display: none;" itemprop="address">проспект Нариманова, дом 1, строение 2, 3-й этаж (главный офис)</div>
+                                                                    </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="wrapper footer__wrapper footer__wrapper--menu">
+                            <div class="footer__block footer__block--menu">
+            <h4 class="footer__block-title accordion__btn">Решения <span class="accordion__icon icon-arrow_carrot-down"></span></h4>
+            <ul class="footer__menu accordion__content">
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="http://finance.simbirsoft.com/" target="_blank" itemprop="url" class="footer__menu-link">Для банков</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="http://insurance.simbirsoft.com/" target="_blank" itemprop="url" class="footer__menu-link">Для страховых</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="https://estimater.ru/" target="_blank" itemprop="url" class="footer__menu-link">Оценка IT-проектов</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="http://data.simbirsoft.com/" target="_blank" itemprop="url" class="footer__menu-link">Data Science</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="https://crm.simbirsoft.com/" target="_blank" itemprop="url" class="footer__menu-link">Автоматизация бизнеса</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="http://shopchat.simbirsoft.com/" target="_blank" itemprop="url" class="footer__menu-link">ShopChat</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="https://foodtech.simbirsoft.com/" target="_blank" itemprop="url" class="footer__menu-link">Food Tech</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="https://medtech.simbirsoft.com/" target="_blank" itemprop="url" class="footer__menu-link">Для медицинской сферы</a></li>
+                                        </ul>
+        </div>
+        <div class="footer__block footer__block--menu">
+            <h4 class="footer__block-title accordion__btn">Услуги <span class="accordion__icon icon-arrow_carrot-down"></span></h4>
+            <ul class="footer__menu accordion__content">
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/help/it-product/" itemprop="url" class="footer__menu-link">IT-продукт под ключ</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/help/outsourcing/" itemprop="url" class="footer__menu-link">Аутсорсинг</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/help/upgrade-existing-system/" itemprop="url" class="footer__menu-link">Модернизация ПО</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/help/save-a-product/" itemprop="url" class="footer__menu-link">«Спасти» продукт</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/help/quality-of-your-it-systems/" itemprop="url" class="footer__menu-link">Обеспечение качества</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/help/sla-support/" itemprop="url" class="footer__menu-link">Техподдержка production и разработки</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/help/jira/" itemprop="url" class="footer__menu-link">Jira Service</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/help/it-architecture/" itemprop="url" class="footer__menu-link">IT-архитектура</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/help/bitrix24/" itemprop="url" class="footer__menu-link">Внедрение Битрикс24</a></li>
+                                        </ul>
+        </div>
+        <div class="footer__block footer__block--menu">
+            <h4 class="footer__block-title accordion__btn">Портфолио <span class="accordion__icon icon-arrow_carrot-down"></span></h4>
+            <ul class="footer__menu accordion__content">
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/portfolio/technologies/" itemprop="url" class="footer__menu-link">Технологии</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/portfolio/industries/" itemprop="url" class="footer__menu-link">Отрасли</a></li>
+                                        </ul>
+        </div>
+        <div class="footer__block footer__block--menu">
+            <h4 class="footer__block-title accordion__btn">О нас <span class="accordion__icon icon-arrow_carrot-down"></span></h4>
+            <ul class="footer__menu accordion__content">
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/company/about/" itemprop="url" class="footer__menu-link">О компании</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/company/awards/" itemprop="url" class="footer__menu-link">Награды</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/company/clients/" itemprop="url" class="footer__menu-link">Клиенты</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/company/processes/" itemprop="url" class="footer__menu-link">Наши процессы</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/company/news/" itemprop="url" class="footer__menu-link">Новости</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/company/management/" itemprop="url" class="footer__menu-link">Менеджмент</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/company/contacts/" itemprop="url" class="footer__menu-link">Контакты</a></li>
+                                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                    <a href="/company/responsibility/" itemprop="url" class="footer__menu-link">Социальная ответственность</a></li>
+                        </ul>
+        </div>
+        
+<div class="footer__block">
+    <h4 class="footer__block-title accordion__btn">
+        Технологии <span class="accordion__icon icon-arrow_carrot-down"></span>
+    </h4>
+    <ul class="footer__menu accordion__content footer__menu--col-2">
+                    <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                <a href="/portfolio/technologies/android/" itemprop="url" class="footer__menu-link">
+                    Android                </a>
+            </li>
+                    <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                <a href="/portfolio/technologies/bitrix/" itemprop="url" class="footer__menu-link">
+                    Bitrix                </a>
+            </li>
+                    <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                <a href="/portfolio/technologies/c-net/" itemprop="url" class="footer__menu-link">
+                    C#/.NET                </a>
+            </li>
+                    <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                <a href="/portfolio/technologies/cpp/" itemprop="url" class="footer__menu-link">
+                    C++                </a>
+            </li>
+                    <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                <a href="/portfolio/technologies/devops/" itemprop="url" class="footer__menu-link">
+                    DevOps                </a>
+            </li>
+                    <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                <a href="/portfolio/technologies/go/" itemprop="url" class="footer__menu-link">
+                    Go                </a>
+            </li>
+                    <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                <a href="/portfolio/technologies/ios/" itemprop="url" class="footer__menu-link">
+                    iOS                </a>
+            </li>
+                    <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                <a href="/portfolio/technologies/java/" itemprop="url" class="footer__menu-link">
+                    Java                </a>
+            </li>
+                    <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                <a href="/portfolio/technologies/javascript/" itemprop="url" class="footer__menu-link">
+                    JavaScript                </a>
+            </li>
+                    <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                <a href="/portfolio/technologies/php/" itemprop="url" class="footer__menu-link">
+                    PHP                </a>
+            </li>
+                    <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                <a href="/portfolio/technologies/python/" itemprop="url" class="footer__menu-link">
+                    Python                </a>
+            </li>
+                    <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                <a href="/portfolio/technologies/qa/" itemprop="url" class="footer__menu-link">
+                    QA                </a>
+            </li>
+                    <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="footer__menu-item ">
+                <a href="/portfolio/technologies/sdet/" itemprop="url" class="footer__menu-link">
+                    SDET                </a>
+            </li>
+            </ul>
+</div></div>
+
+                <div class="footer__bottom">
+                    <div class="footer__wrapper">
+                        <div class="iso-sign">
+                            © 2001 - 2021 <a title="SimbirSoft">SimbirSoft</a>
+                        </div>
+                        <div class="copyright">
+                            ISO 9001:2015
+                        </div>
+
+                        <ul class="social">
+                            <li class="social__item">
+                                <a href="https://www.facebook.com/SimbirSoft/" target="_blank" title="Facebook" class="social__link">
+                                    <span class="icon-social_facebook"></span>
+                                </a>
+                            </li>
+                            <li class="social__item">
+                                <a href="https://twitter.com/SimbirSoft" title="Twitter" target="_blank" class="social__link">
+                                    <span class="icon-social_twitter"></span>
+                                </a>
+                            </li>
+                            <li class="social__item">
+                                <a href="https://vk.com/simbirsoft" title="ВКонтакте" target="_blank" class="social__link">
+                                    <span class="icon-social_vk"></span>
+                                </a>
+                            </li>
+                            <li class="social__item">
+                                <a href="https://www.instagram.com/simbirsoft/" title="Instagram" target="_blank" class="social__link">
+                                    <span class="icon-social_instagram"></span>
+                                </a>
+                            </li>
+                            <li class="social__item">
+                                <a href="https://www.youtube.com/user/SimbirSoft/" title="Youtube" target="_blank" class="social__link">
+                                    <span class="icon-social_youtube"></span>
+                                </a>
+                            </li>
+                            <li class="social__item">
+                                <a href="https://t.me/simbirsoft_dev" title="Telegram" target="_blank" class="social__link">
+                                    <span class="icon-social_telegram"></span>
+                                </a>
+                            </li>
+                            <li class="social__item">
+                                <a href="https://habr.com/ru/company/simbirsoft/" title="Habr" target="_blank" class="social__link">
+                                    <span class="icon-social_habr"></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footer__wrapper" style="display: none;">
+                        <div>
+                            <div id="bx-composite-banner"></div>
+                        </div>
+                    </div>
+                </div>
+
+            </footer>
+
+            <div id="contact-form" class="contacts__form modal">
+                <div id="bxdynamic_contact_form-block_start" style="display:none"></div><div id="bxdynamic_contact_form-block_end" style="display:none"></div>            </div>
+
+            
+            
+                    </div>
+
+                            <script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script>(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script>(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'14400','SITE_ID':'s1','SITE_DIR':'/'});</script><script  src="/bitrix/cache/js/s1/simbirsoft/kernel_main/kernel_main.js?1613066297296549"></script>
+<script src="/bitrix/js/main/core/core_db.min.js?15029834288699"></script>
+<script src="/bitrix/js/main/core/core_frame_cache.min.js?149148799111191"></script>
+<script src="https://code.jquery.com/jquery-3.5.0.min.js"></script>
+<script>BX.setJSList(['/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/json/json2.min.js','/bitrix/js/main/core/core_ls.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/core/core_popup.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/utils.js','/bitrix/js/main/core/core_date.js','/local/templates/.default/js/polifills/history.js','/local/templates/.default/js/lazyload/lazysizes.min.js','/local/templates/.default/js/lazyload/ls.unveilhooks.min.js','/local/templates/.default/vendor/intl-tel-input/intlTelInput.min.js','/local/templates/simbirsoft/components/bitrix/menu/menutop/script.js','/local/templates/.default/js/dist/app.bundle.js','/local/templates/.default/js/custom.js','/local/components/custom/form.result.new/templates/contact_form/script.js']); </script>
+<script>BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/core/css/core_popup.css','/bitrix/js/main/core/css/core_date.css','/local/templates/.default/styles/css/main.min.css','/local/templates/.default/styles/css/libs.min.css','/local/templates/.default/styles/custom.css','/local/templates/.default/styles/edge.css','/local/templates/.default/vendor/intl-tel-input/intlTelInput.css','/local/templates/simbirsoft/components/bitrix/menu/menutop/style.css','/local/templates/simbirsoft/components/bitrix/menu/menubottom/style.css','/local/templates/simbirsoft/styles.css','/local/components/custom/form.result.new/templates/contact_form/style.css']); </script>
+<script>BX.message({'FILES_CONTACT_FORM_LIST':'Прикрепленные файлы: ','FILES_CONTACT_FORM_DELETE':'Удалить','FILES_CONTACT_FORM_ERROR':'Не удалось загрузить файлы'})</script>
+
+
+
+<script  src="/bitrix/cache/js/s1/simbirsoft/template_e90d1dd10a5b7a135b344a2a88ecc3c8/template_e90d1dd10a5b7a135b344a2a88ecc3c8.js?1613045728374133"></script>
+<script  src="/bitrix/cache/js/s1/simbirsoft/default_1ce328b17bda6f3259df0d6f52cb089b/default_1ce328b17bda6f3259df0d6f52cb089b.js?161304572814164"></script>
+<script>var _ba = _ba || []; _ba.push(["aid", "02de4affeedd986cfee34fb78086b6ea"]); _ba.push(["host", "www.simbirsoft.com"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+
+<script>
+                var feedbackFormSuccess = "Спасибо! Ваше сообщение отправлено, мы обязательно ответим Вам в ближайшее время.";
+            </script>
+<script src="/local/templates/.default/js/dist/reject.min.js"></script>
+</body>
+</html>
+<!--5fa938168db2d27df5e259984f5cafc3-->

@@ -1,0 +1,7 @@
+D:\Projects\HTMLDownload\HTMLDownload\bin\Release\HTMLDownload.exe.config
+D:\Projects\HTMLDownload\HTMLDownload\bin\Release\HTMLDownload.exe
+D:\Projects\HTMLDownload\HTMLDownload\bin\Release\HTMLDownload.pdb
+D:\Projects\HTMLDownload\HTMLDownload\obj\Release\HTMLDownload.csprojAssemblyReference.cache
+D:\Projects\HTMLDownload\HTMLDownload\obj\Release\HTMLDownload.csproj.CoreCompileInputs.cache
+D:\Projects\HTMLDownload\HTMLDownload\obj\Release\HTMLDownload.exe
+D:\Projects\HTMLDownload\HTMLDownload\obj\Release\HTMLDownload.pdb
